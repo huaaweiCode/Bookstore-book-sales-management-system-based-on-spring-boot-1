@@ -1,10 +1,6 @@
 # 基于springboot的书店图书销售管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  **书店1**： ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -75,11 +71,4 @@
 
 ![管理员-给角色分配权限](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141057503.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ： **书店1**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
